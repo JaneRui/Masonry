@@ -20,7 +20,9 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    // 创建滑块
     [self setupSlider];
+    // 创建view
     [self setupView];
 }
 
